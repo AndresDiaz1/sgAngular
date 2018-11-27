@@ -1,6 +1,6 @@
 # sgAngular
 
-Angular-CLI seed project
+Angular-CLI seed project, for the Endava's Angular study group.
 
 ## Prerequisites
 
