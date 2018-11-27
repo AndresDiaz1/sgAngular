@@ -12,7 +12,7 @@ $ npm install -g @angular/cli
 
 ### Install dependencies
 
-Install the dependencies running:
+Go to sgAngularSeed folder and install the dependencies running:
 
 ```bash
 $ npm install
